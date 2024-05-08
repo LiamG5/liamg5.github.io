@@ -1,0 +1,15 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: BlueViolet;
+  font-family: Georgia;
+  font-variant: small-caps;
+}
+p {
+   
+  font-family: Georgia;
+}
+table, th, td {
+    border: 1px solid black;
+}
